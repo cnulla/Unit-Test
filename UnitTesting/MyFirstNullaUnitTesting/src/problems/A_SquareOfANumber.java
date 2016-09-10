@@ -14,6 +14,7 @@ public class A_SquareOfANumber {
         int TestCases = sc.nextInt();
         while(TestCases > 0){
         int num = sc.nextInt();
+       
         if(num<0){
             System.out.println("INVALID");
         }
